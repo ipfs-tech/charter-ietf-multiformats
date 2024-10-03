@@ -51,6 +51,9 @@ Outputs from the group's first stage will be:
    within the multicodecs registry group, and
    * populating said registry with only those values in today's community
    registry that already meet the requirements for `final` registrations.
+3. Pending working group interest and consensus, potentially a use-cases
+   documenting covering only multihash applications, that could be expanded in
+   later phases to incorporate more layers.
 
 The outputs from this Working Group are currently being used by various groups,
 including:
