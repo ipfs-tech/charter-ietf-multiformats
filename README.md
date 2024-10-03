@@ -36,11 +36,11 @@ success of the first phase.
 For the first stage, the input documents include:
 
 1. The draft IANA RFC for the Multiformats registry document
-   * link TBD
+   * TBD: flesh out and formalize [the registry governance section here](https://github.com/multiformats/multiformats/blob/master/contributing.md#multiformats-registrations)
 2. The newest draft of the Multihash specification, which includes an IANA
    considerations section covering its registry within the Multiformats Registry
    Group:
-   * link TBD (soon-to-be v8 on datatracker)
+   * https://ipfs-tech.github.io/multiformats-multihash-v8/draft-caballero-multiformats-multihash.html
 
 Outputs from the group's first stage will be:
 
@@ -74,8 +74,8 @@ Items that are out of scope for the group include:
 * Creating or standardizing new data formats identified by a multicodec byte
   header.
 * Determining whether one data format is better than another data format.
-* Changing multiformat header assignments currently marked as `permanent` in the
-  community registry that have been implemented in production and already meet
-  the multihash requirements for status `final`.
+* Normatively changing or reassigning multiformat header assignments currently
+  marked as `permanent` in the community registry that have been implemented in
+  production and already meet the multihash requirements for status `final`.
 
 [1]: https://ipfs.io/ipfs/QmXec1jjwzxWJoNbxQF5KffL8q6hFXm9QwUGaa3wKGk6dT/#title=Multicodecs&src=https://raw.githubusercontent.com/multiformats/multicodec/master/table.csv
